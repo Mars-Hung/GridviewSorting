@@ -4,5 +4,5 @@ Enhance the ease of sorting in the C# webform GridView.
 1. add nuget package System.Linq.Dynamic
 > ===========index.aspx======
 > 1. using GridviewSorting.Extensions;
-> 2. gvMain.DataBind<<Employee>>();
+> 2. gvMain.DataBind&lt;Employee>>();
 > 3. gvMain.CustomSorting(e);
