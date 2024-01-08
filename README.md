@@ -5,5 +5,5 @@ Enhance the ease of sorting in the C# webform GridView.
 
 > ===========index.aspx======
 > 1. using GridviewSorting.Extensions;
-> 2. gvMain.DataBind&lt;Employee&gt();
+> 2. gvMain.DataBind&lt;Employee&gt;();
 > 3. gvMain.CustomSorting(e);
